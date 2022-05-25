@@ -1,0 +1,86 @@
+{"level":30,"time":"2022-05-20T18:46:09.289Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Listening on 64818"}
+{"level":30,"time":"2022-05-20T18:46:09.355Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:46:09.357Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:46:09.365Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:46:09.365Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:46:09.378Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-20T18:46:11.617Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-20T18:46:11.633Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-20T18:46:11.634Z","pid":8616,"hostname":"DBS-NTB-005","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-20T18:46:11.681Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T18:46:11.967Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-20T18:46:11.968Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T18:46:14.310Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-20T18:46:14.325Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T18:46:14.366Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T18:46:14.384Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method goTo"}
+{"level":30,"time":"2022-05-20T18:46:15.073Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method goTo"}
+{"level":30,"time":"2022-05-20T18:46:15.093Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:46:15.096Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.login-form in page."}
+{"level":30,"time":"2022-05-20T18:46:15.221Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:46:15.230Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:46:15.231Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2022-05-20T18:46:15.278Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:46:15.285Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:46:15.285Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2022-05-20T18:46:15.318Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:46:15.326Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T18:46:15.327Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Entrar in page."}
+{"level":30,"time":"2022-05-20T18:46:15.529Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T18:46:15.555Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:46:15.556Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=a[href=\"/profile\"] in page."}
+{"level":30,"time":"2022-05-20T18:46:16.778Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:46:16.787Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-20T18:46:16.787Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=a[href=\"/profile\"] in page."}
+{"level":30,"time":"2022-05-20T18:46:16.841Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Retrieved text for element css=a[href=\"/profile\"] containing Kim Dotcom"}
+{"level":30,"time":"2022-05-20T18:46:16.842Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-20T18:46:16.853Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T18:46:16.853Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=a[href=\"/be-geek\"] >> text=Seja um Geek in page."}
+{"level":30,"time":"2022-05-20T18:46:16.966Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T18:46:16.973Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:46:16.974Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.be-geek-form in page."}
+{"level":30,"time":"2022-05-20T18:46:16.986Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:46:16.992Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:46:16.992Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2022-05-20T18:46:17.023Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:46:17.029Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:46:17.029Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2022-05-20T18:46:17.065Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:46:17.072Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:46:17.073Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2022-05-20T18:46:17.261Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:46:17.272Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:46:17.272Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2022-05-20T18:46:17.575Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:46:17.583Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:46:17.583Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2022-05-20T18:46:17.643Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:46:17.652Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T18:46:17.652Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2022-05-20T18:46:17.778Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T18:46:27.806Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:46:27.807Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=p >> text= Seu cadastro está na nossa lista de geeks. Agora é só ficar de olho no seu WhatsApp. in page."}
+{"level":30,"time":"2022-05-20T18:46:27.828Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:46:27.842Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T18:46:28.601Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T18:46:28.610Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:46:28.615Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:46:28.619Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T18:46:28.620Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T18:46:28.620Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T18:46:28.624Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:46:28.628Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:46:28.630Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T18:46:28.631Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T18:46:28.633Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T18:46:28.633Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T18:46:28.662Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T18:46:28.662Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T18:46:28.662Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T18:46:28.667Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-05-20T18:46:28.676Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Removed page=62fba8f8-f606-441d-8bf3-8ee89258fb4f from context=0263a1ee-6392-4235-bc20-962c3ce56b94 page stack"}
+{"level":30,"time":"2022-05-20T18:46:28.681Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-05-20T18:46:28.687Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:46:28.687Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:46:28.699Z","pid":8616,"hostname":"DBS-NTB-005","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-05-20T18:46:28.776Z","pid":8616,"hostname":"DBS-NTB-005","msg":"End of node method closeAllBrowsers"}

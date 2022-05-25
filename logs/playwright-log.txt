@@ -1,0 +1,1227 @@
+{"level":30,"time":"2022-05-20T18:59:00.648Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Listening on 65226"}
+{"level":30,"time":"2022-05-20T18:59:01.175Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:01.178Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:01.195Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-20T18:59:02.071Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-20T18:59:02.081Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-20T18:59:02.082Z","pid":6260,"hostname":"DBS-NTB-005","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-20T18:59:02.103Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T18:59:02.267Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-20T18:59:02.267Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T18:59:09.622Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-20T18:59:09.635Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T18:59:09.645Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T18:59:09.660Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method goTo"}
+{"level":30,"time":"2022-05-20T18:59:10.405Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method goTo"}
+{"level":30,"time":"2022-05-20T18:59:10.417Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:10.419Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.login-form in page."}
+{"level":30,"time":"2022-05-20T18:59:10.526Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:10.537Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:10.538Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2022-05-20T18:59:10.620Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:10.634Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:10.635Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2022-05-20T18:59:10.695Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:10.706Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T18:59:10.707Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Entrar in page."}
+{"level":30,"time":"2022-05-20T18:59:10.898Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T18:59:10.915Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:10.915Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=a[href=\"/profile\"] in page."}
+{"level":30,"time":"2022-05-20T18:59:12.505Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:12.517Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-20T18:59:12.518Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=a[href=\"/profile\"] in page."}
+{"level":30,"time":"2022-05-20T18:59:12.604Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Retrieved text for element css=a[href=\"/profile\"] containing Dio Linux"}
+{"level":30,"time":"2022-05-20T18:59:12.604Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-20T18:59:12.621Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T18:59:12.621Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=a[href=\"/be-geek\"] >> text=Seja um Geek in page."}
+{"level":30,"time":"2022-05-20T18:59:12.823Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T18:59:12.833Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:12.833Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.be-geek-form in page."}
+{"level":30,"time":"2022-05-20T18:59:12.855Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:12.865Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:12.872Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:12.895Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:12.895Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2022-05-20T18:59:12.972Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:12.980Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:12.980Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2022-05-20T18:59:13.034Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:13.046Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:13.047Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2022-05-20T18:59:13.238Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:13.249Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:13.250Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2022-05-20T18:59:13.474Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:13.482Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:13.482Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2022-05-20T18:59:13.530Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:13.539Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T18:59:13.539Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2022-05-20T18:59:13.701Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T18:59:13.712Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:13.712Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text= A descrição deve ter no minimo 80 caracteres in page."}
+{"level":30,"time":"2022-05-20T18:59:13.732Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:13.743Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T18:59:14.088Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T18:59:16.111Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:16.116Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:16.131Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:16.137Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:16.201Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:16.202Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2022-05-20T18:59:16.249Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:16.260Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:16.260Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2022-05-20T18:59:16.313Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:16.321Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:16.321Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2022-05-20T18:59:16.514Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:16.526Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:16.526Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2022-05-20T18:59:16.742Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:16.749Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:16.750Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2022-05-20T18:59:16.794Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:16.802Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T18:59:16.803Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2022-05-20T18:59:16.922Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T18:59:16.933Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:16.933Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text= A descrição deve ter nomáximo 255 caracteres in page."}
+{"level":30,"time":"2022-05-20T18:59:24.951Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  waitForElementState"}
+================= Original suppressed error =================
+locator.waitFor: Timeout 8000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=span[class=error] >> text= A descrição deve ter nomáximo 255 caracteres" to be visible
+============================================================
+    at waitForElementState (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6472:19)
+    at async PlaywrightServer.waitForElementsState (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-05-20T18:59:24.971Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T18:59:25.209Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T18:59:25.225Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:25.227Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:25.234Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:25.237Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:25.245Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:25.245Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2022-05-20T18:59:25.266Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:25.271Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:25.271Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2022-05-20T18:59:25.312Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:25.316Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:25.316Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2022-05-20T18:59:25.404Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:25.409Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:25.409Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2022-05-20T18:59:25.539Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:25.544Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:25.544Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2022-05-20T18:59:25.570Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:25.577Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T18:59:25.577Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2022-05-20T18:59:25.649Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T18:59:25.658Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:25.658Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text= Informe a descrição do seu trabalho in page."}
+{"level":30,"time":"2022-05-20T18:59:25.669Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:25.676Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T18:59:26.082Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T18:59:28.100Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:28.106Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:28.119Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:28.126Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:28.145Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:28.146Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2022-05-20T18:59:28.218Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:28.229Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:28.229Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2022-05-20T18:59:28.276Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:28.285Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:28.285Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2022-05-20T18:59:28.474Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:28.483Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:28.483Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2022-05-20T18:59:28.757Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:28.761Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:28.761Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2022-05-20T18:59:28.781Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:28.785Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T18:59:28.786Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2022-05-20T18:59:28.855Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T18:59:28.862Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:28.862Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text= O Whatsapp deve ter 11 digitos contando com o DDD in page."}
+{"level":30,"time":"2022-05-20T18:59:28.873Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:28.879Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T18:59:29.302Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T18:59:31.315Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:31.320Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:31.331Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:31.340Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:31.363Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:31.363Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2022-05-20T18:59:31.416Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:31.428Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:31.428Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2022-05-20T18:59:31.477Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:31.486Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:31.486Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2022-05-20T18:59:31.669Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:31.681Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:31.682Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2022-05-20T18:59:31.891Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:31.898Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:31.899Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2022-05-20T18:59:31.945Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:31.953Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T18:59:31.953Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2022-05-20T18:59:32.070Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T18:59:32.080Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:32.081Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text= O Whatsapp deve ter 11 digitos contando com o DDD in page."}
+{"level":30,"time":"2022-05-20T18:59:32.098Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:32.109Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T18:59:32.443Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T18:59:34.464Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:34.470Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:34.482Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:34.490Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:34.510Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:34.510Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2022-05-20T18:59:34.566Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:34.575Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:34.575Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2022-05-20T18:59:34.622Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:34.630Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:34.631Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2022-05-20T18:59:34.826Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:34.835Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:34.835Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2022-05-20T18:59:35.050Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:35.058Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:35.059Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2022-05-20T18:59:35.105Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:35.113Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T18:59:35.113Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2022-05-20T18:59:35.236Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T18:59:35.245Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:35.246Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text= O Whatsapp deve ter 11 digitos contando com o DDD in page."}
+{"level":30,"time":"2022-05-20T18:59:35.264Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:35.275Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T18:59:35.713Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T18:59:37.727Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:37.736Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:37.748Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:37.753Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:37.771Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:37.772Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2022-05-20T18:59:37.830Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:37.837Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:37.837Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2022-05-20T18:59:37.886Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:37.894Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:37.895Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2022-05-20T18:59:38.089Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:38.097Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:38.098Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2022-05-20T18:59:38.312Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:38.320Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:38.320Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2022-05-20T18:59:38.365Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:38.377Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T18:59:38.377Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2022-05-20T18:59:38.506Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T18:59:38.518Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:38.518Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text= Valor deve ser numérico in page."}
+{"level":30,"time":"2022-05-20T18:59:46.535Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  waitForElementState"}
+================= Original suppressed error =================
+locator.waitFor: Timeout 8000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=span[class=error] >> text= Valor deve ser numérico" to be visible
+============================================================
+    at waitForElementState (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6472:19)
+    at async PlaywrightServer.waitForElementsState (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-05-20T18:59:46.546Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T18:59:46.842Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T18:59:46.853Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:46.856Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:46.866Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:46.868Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:46.877Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:46.877Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2022-05-20T18:59:46.913Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:46.918Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:46.918Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2022-05-20T18:59:46.961Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:46.966Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:46.966Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2022-05-20T18:59:47.075Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:47.080Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:47.080Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2022-05-20T18:59:47.195Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:47.198Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:47.198Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2022-05-20T18:59:47.221Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:47.225Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T18:59:47.225Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2022-05-20T18:59:47.291Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T18:59:47.297Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:47.297Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text= Valor deve ser numérico in page."}
+{"level":30,"time":"2022-05-20T18:59:55.314Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  waitForElementState"}
+================= Original suppressed error =================
+locator.waitFor: Timeout 8000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=span[class=error] >> text= Valor deve ser numérico" to be visible
+============================================================
+    at waitForElementState (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6472:19)
+    at async PlaywrightServer.waitForElementsState (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-05-20T18:59:55.324Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T18:59:55.541Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T18:59:55.551Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:55.553Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:55.560Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:55.562Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T18:59:55.569Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:55.569Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2022-05-20T18:59:55.595Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:55.599Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:55.599Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2022-05-20T18:59:55.631Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:55.635Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:55.635Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2022-05-20T18:59:55.724Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:55.727Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:55.727Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2022-05-20T18:59:55.818Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T18:59:55.821Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:55.821Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2022-05-20T18:59:55.841Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T18:59:55.844Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T18:59:55.844Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2022-05-20T18:59:55.944Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T18:59:55.951Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T18:59:55.951Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text= Valor deve ser numérico in page."}
+{"level":30,"time":"2022-05-20T19:00:03.960Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  waitForElementState"}
+================= Original suppressed error =================
+locator.waitFor: Timeout 8000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=span[class=error] >> text= Valor deve ser numérico" to be visible
+============================================================
+    at waitForElementState (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6472:19)
+    at async PlaywrightServer.waitForElementsState (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-05-20T19:00:03.972Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:00:04.243Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:00:04.254Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:04.257Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:04.265Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:04.268Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:04.278Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:04.278Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2022-05-20T19:00:04.310Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:04.316Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:04.317Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2022-05-20T19:00:04.349Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:04.353Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T19:00:04.354Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2022-05-20T19:00:04.453Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T19:00:04.458Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T19:00:04.458Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2022-05-20T19:00:04.579Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T19:00:04.583Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:04.583Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2022-05-20T19:00:04.609Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:04.614Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T19:00:04.614Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2022-05-20T19:00:04.687Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T19:00:04.693Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:00:04.693Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text= Valor deve ser numérico in page."}
+{"level":30,"time":"2022-05-20T19:00:12.699Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  waitForElementState"}
+================= Original suppressed error =================
+locator.waitFor: Timeout 8000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=span[class=error] >> text= Valor deve ser numérico" to be visible
+============================================================
+    at waitForElementState (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6472:19)
+    at async PlaywrightServer.waitForElementsState (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-05-20T19:00:12.703Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:00:12.850Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:00:12.866Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:12.868Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:12.877Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:12.879Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:12.888Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:12.888Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2022-05-20T19:00:12.928Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:12.932Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:12.932Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2022-05-20T19:00:12.965Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:12.973Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T19:00:12.974Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2022-05-20T19:00:13.074Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T19:00:13.078Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:13.078Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2022-05-20T19:00:13.101Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:13.106Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T19:00:13.106Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2022-05-20T19:00:13.197Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T19:00:13.206Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:00:13.206Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text= Por favor, informe se você é um Geek Supremo in page."}
+{"level":30,"time":"2022-05-20T19:00:21.222Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  waitForElementState"}
+================= Original suppressed error =================
+locator.waitFor: Timeout 8000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=span[class=error] >> text= Por favor, informe se você é um Geek Supremo" to be visible
+============================================================
+    at waitForElementState (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6472:19)
+    at async PlaywrightServer.waitForElementsState (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-05-20T19:00:21.233Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:00:21.453Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:00:21.463Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:21.466Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:21.474Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:21.477Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:21.486Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:21.486Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2022-05-20T19:00:21.516Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:21.521Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:21.522Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2022-05-20T19:00:21.557Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:21.562Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T19:00:21.562Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2022-05-20T19:00:21.663Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T19:00:21.668Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:21.669Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2022-05-20T19:00:21.697Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:21.702Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T19:00:21.702Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2022-05-20T19:00:21.772Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T19:00:21.778Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:00:21.778Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text= Por favor, selecione o modelo de trabalho in page."}
+{"level":30,"time":"2022-05-20T19:00:29.784Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  waitForElementState"}
+================= Original suppressed error =================
+locator.waitFor: Timeout 8000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=span[class=error] >> text= Por favor, selecione o modelo de trabalho" to be visible
+============================================================
+    at waitForElementState (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6472:19)
+    at async PlaywrightServer.waitForElementsState (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-05-20T19:00:29.795Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:00:30.107Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:00:30.130Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:30.134Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:30.154Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:30.160Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:30.167Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:00:30.168Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T19:00:30.168Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:00:30.181Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:30.186Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:30.194Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:00:30.195Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:00:30.200Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:00:30.201Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:00:30.216Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:00:30.216Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T19:00:30.216Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:00:30.226Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:00:30.251Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Removed page=5e277515-a48b-461b-ae5b-c387316d0371 from context=4f448ee3-dee1-4ee9-9428-eecf7f464f1e page stack"}
+{"level":30,"time":"2022-05-20T19:00:30.263Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:00:30.341Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:30.341Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:30.349Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:30.349Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:30.363Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:00:31.159Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:00:31.164Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-20T19:00:31.165Z","pid":6260,"hostname":"DBS-NTB-005","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-20T19:00:31.174Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:00:31.340Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-20T19:00:31.340Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:00:41.196Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-20T19:00:41.205Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T19:00:41.211Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T19:00:41.232Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method goTo"}
+{"level":30,"time":"2022-05-20T19:00:41.964Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method goTo"}
+{"level":30,"time":"2022-05-20T19:00:41.973Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:00:41.973Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.login-form in page."}
+{"level":30,"time":"2022-05-20T19:00:42.062Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:00:42.072Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:42.072Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2022-05-20T19:00:42.148Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:42.157Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:42.157Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2022-05-20T19:00:42.214Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:42.223Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T19:00:42.223Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Entrar in page."}
+{"level":30,"time":"2022-05-20T19:00:42.390Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T19:00:42.406Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:00:42.406Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=a[href=\"/profile\"] in page."}
+{"level":30,"time":"2022-05-20T19:00:44.046Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:00:44.056Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-20T19:00:44.056Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=a[href=\"/profile\"] in page."}
+{"level":30,"time":"2022-05-20T19:00:44.160Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Retrieved text for element css=a[href=\"/profile\"] containing Kim Dotcom"}
+{"level":30,"time":"2022-05-20T19:00:44.160Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-20T19:00:44.172Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T19:00:44.173Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=a[href=\"/be-geek\"] >> text=Seja um Geek in page."}
+{"level":30,"time":"2022-05-20T19:00:44.350Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T19:00:44.358Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:00:44.359Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.be-geek-form in page."}
+{"level":30,"time":"2022-05-20T19:00:44.377Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:00:44.388Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:44.388Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=whatsapp in page."}
+{"level":30,"time":"2022-05-20T19:00:44.440Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:44.453Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:44.453Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=desc in page."}
+{"level":30,"time":"2022-05-20T19:00:44.518Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:44.527Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T19:00:44.527Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=printer_repair in page."}
+{"level":30,"time":"2022-05-20T19:00:44.706Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T19:00:44.714Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-20T19:00:44.714Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=work in page."}
+{"level":30,"time":"2022-05-20T19:00:44.921Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-20T19:00:44.928Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:44.928Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=cost in page."}
+{"level":30,"time":"2022-05-20T19:00:44.974Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:00:44.984Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T19:00:44.984Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=button >> text=Quero ser um Geek in page."}
+{"level":30,"time":"2022-05-20T19:00:45.111Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T19:00:55.131Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:00:55.131Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=p >> text= Seu cadastro está na nossa lista de geeks. Agora é só ficar de olho no seu WhatsApp. in page."}
+{"level":30,"time":"2022-05-20T19:00:55.151Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:00:55.172Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:00:55.758Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:00:55.764Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:55.767Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:55.772Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:00:55.772Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T19:00:55.772Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:00:55.776Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:55.778Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:55.781Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:00:55.781Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:00:55.783Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:00:55.783Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:00:55.789Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:00:55.789Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T19:00:55.789Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:00:55.793Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:00:55.797Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Removed page=4e940884-31cd-4a11-b94b-8b19d2875f6c from context=3f3739bc-f729-4e20-bb42-35da9ccf71b5 page stack"}
+{"level":30,"time":"2022-05-20T19:00:55.800Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:00:55.812Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:55.812Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:55.857Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:55.858Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:55.861Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:55.861Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:00:55.867Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:00:56.550Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:00:56.561Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-20T19:00:56.561Z","pid":6260,"hostname":"DBS-NTB-005","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-20T19:00:56.576Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:00:56.754Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-20T19:00:56.754Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:01:04.909Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-20T19:01:04.916Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T19:01:04.923Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T19:01:04.938Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method goTo"}
+{"level":30,"time":"2022-05-20T19:01:05.795Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method goTo"}
+{"level":30,"time":"2022-05-20T19:01:05.804Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:01:05.805Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.login-form in page."}
+{"level":30,"time":"2022-05-20T19:01:05.891Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:01:05.902Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:01:05.902Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2022-05-20T19:01:05.982Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:01:05.990Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:01:05.990Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2022-05-20T19:01:06.046Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:01:06.057Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T19:01:06.057Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Entrar in page."}
+{"level":30,"time":"2022-05-20T19:01:06.259Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T19:01:06.277Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:01:06.278Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=a[href=\"/profile\"] in page."}
+{"level":30,"time":"2022-05-20T19:01:08.531Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:01:08.543Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-20T19:01:08.543Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=a[href=\"/profile\"] in page."}
+{"level":30,"time":"2022-05-20T19:01:08.614Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Retrieved text for element css=a[href=\"/profile\"] containing Joao de Lima"}
+{"level":30,"time":"2022-05-20T19:01:08.614Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-20T19:01:08.633Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:01:08.976Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:01:09.012Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:09.019Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:09.025Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:01:09.025Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T19:01:09.025Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:01:09.034Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:09.041Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:09.045Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:09.046Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:09.050Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:09.050Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:09.061Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:01:09.061Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T19:01:09.061Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:01:09.067Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:01:09.072Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Removed page=8f31e956-ca70-49c4-ad5d-0d45bc44ba26 from context=7c3ebc67-f784-47f0-b03f-cae47cdd144c page stack"}
+{"level":30,"time":"2022-05-20T19:01:09.078Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:01:09.090Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:09.091Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:09.102Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:01:09.864Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:01:09.873Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-20T19:01:09.873Z","pid":6260,"hostname":"DBS-NTB-005","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-20T19:01:09.889Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:01:10.183Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-20T19:01:10.183Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:01:20.194Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  newPage"}
+================= Original suppressed error =================
+page.goto: Timeout 10000ms exceeded.
+=========================== logs ===========================
+navigating to "https://getgeeks-jonga.herokuapp.com/", waiting until "load"
+============================================================
+    at newPage (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7548:18)
+    at async PlaywrightServer.newPage (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-05-20T19:01:20.206Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:01:20.207Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6307:3)
+    at PlaywrightServer.takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:34)
+    at handleUnary (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-05-20T19:01:20.236Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:01:20.237Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6307:3)
+    at PlaywrightServer.takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:34)
+    at handleUnary (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-05-20T19:01:20.248Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:01:20.249Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6307:3)
+    at PlaywrightServer.takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:34)
+    at handleUnary (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-05-20T19:01:20.270Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:20.271Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:20.278Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:01:20.284Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:20.284Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:20.292Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:20.292Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:20.296Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:20.297Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:20.316Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:01:20.324Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:01:20.337Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:01:20.361Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:20.362Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:20.376Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:01:21.146Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:01:21.153Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-20T19:01:21.153Z","pid":6260,"hostname":"DBS-NTB-005","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-20T19:01:21.164Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:01:21.328Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-20T19:01:21.329Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:01:30.703Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-20T19:01:30.712Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T19:01:30.719Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T19:01:30.737Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method goTo"}
+{"level":30,"time":"2022-05-20T19:01:31.603Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method goTo"}
+{"level":30,"time":"2022-05-20T19:01:31.611Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:01:31.612Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.login-form in page."}
+{"level":30,"time":"2022-05-20T19:01:31.695Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:01:31.706Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:01:31.707Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2022-05-20T19:01:31.795Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:01:31.802Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:01:31.802Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2022-05-20T19:01:31.858Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:01:31.869Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T19:01:31.870Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Entrar in page."}
+{"level":30,"time":"2022-05-20T19:01:32.029Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T19:01:32.046Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:01:32.047Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.swal2-title in page."}
+{"level":30,"time":"2022-05-20T19:01:37.064Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  waitForElementState"}
+================= Original suppressed error =================
+locator.waitFor: Timeout 5000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=.swal2-title" to be visible
+============================================================
+    at waitForElementState (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6472:19)
+    at async PlaywrightServer.waitForElementsState (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-05-20T19:01:37.081Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:01:37.589Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:01:37.609Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:01:38.142Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:01:38.148Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:38.152Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:38.156Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:01:38.156Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T19:01:38.156Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:01:38.161Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:38.164Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:38.167Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:38.167Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:38.170Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:38.170Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:38.175Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:01:38.175Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T19:01:38.175Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:01:38.180Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:01:38.188Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Removed page=4dcbcb14-d5a9-436e-a141-4fef297d6387 from context=10a427a5-7250-4239-8d6e-f879a1493771 page stack"}
+{"level":30,"time":"2022-05-20T19:01:38.189Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:01:38.199Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:38.199Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:38.207Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:01:38.885Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:01:38.895Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-20T19:01:38.895Z","pid":6260,"hostname":"DBS-NTB-005","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-20T19:01:38.910Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:01:39.170Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-20T19:01:39.170Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:01:46.425Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-20T19:01:46.434Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T19:01:46.440Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T19:01:46.458Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method goTo"}
+{"level":30,"time":"2022-05-20T19:01:47.159Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method goTo"}
+{"level":30,"time":"2022-05-20T19:01:47.166Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:01:47.166Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.login-form in page."}
+{"level":30,"time":"2022-05-20T19:01:47.251Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:01:47.262Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:01:47.262Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2022-05-20T19:01:47.340Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:01:47.348Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:01:47.348Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2022-05-20T19:01:47.407Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:01:47.418Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T19:01:47.418Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Entrar in page."}
+{"level":30,"time":"2022-05-20T19:01:47.569Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T19:01:47.591Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-05-20T19:01:47.592Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2022-05-20T19:01:47.790Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Retrieved dom property for element id=email containing email"}
+{"level":30,"time":"2022-05-20T19:01:47.790Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-05-20T19:01:47.809Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:01:48.640Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:01:48.648Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:48.654Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:48.660Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:01:48.661Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T19:01:48.661Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:01:48.670Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:48.684Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:48.692Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:48.692Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:48.697Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:48.698Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:48.715Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:01:48.715Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T19:01:48.716Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:01:48.725Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:01:48.731Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Removed page=bb882465-e392-4689-8e2e-53bb9a98f18b from context=efd09a87-c16f-4659-bedc-2dc6c0d7ee06 page stack"}
+{"level":30,"time":"2022-05-20T19:01:48.737Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:01:48.749Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:48.749Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:48.760Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:01:49.424Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:01:49.430Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-20T19:01:49.430Z","pid":6260,"hostname":"DBS-NTB-005","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-20T19:01:49.441Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:01:49.604Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-20T19:01:49.604Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:01:54.026Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-20T19:01:54.033Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T19:01:54.039Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T19:01:54.056Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method goTo"}
+{"level":30,"time":"2022-05-20T19:01:54.939Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method goTo"}
+{"level":30,"time":"2022-05-20T19:01:54.947Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:01:54.947Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.login-form in page."}
+{"level":30,"time":"2022-05-20T19:01:55.055Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:01:55.071Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:01:55.071Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2022-05-20T19:01:55.147Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:01:55.155Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:01:55.156Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2022-05-20T19:01:55.225Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:01:55.236Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T19:01:55.236Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Entrar in page."}
+{"level":30,"time":"2022-05-20T19:01:55.410Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T19:01:55.422Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:01:55.423Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text= E-mail obrigatório in page."}
+{"level":30,"time":"2022-05-20T19:01:55.445Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:01:55.465Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:01:56.026Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:01:56.032Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:56.038Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:56.041Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:01:56.042Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T19:01:56.042Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:01:56.048Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:56.051Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:56.054Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:56.054Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:56.057Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:56.057Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:01:56.063Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:01:56.063Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T19:01:56.063Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:01:56.070Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:01:56.073Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Removed page=320dc7fd-9bcd-4482-b0bf-72e48504b11b from context=11fafb0f-f442-4e74-aa59-c6af0dbe9aef page stack"}
+{"level":30,"time":"2022-05-20T19:01:56.075Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:01:56.081Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:56.082Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:01:56.089Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:01:56.840Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:01:56.845Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-20T19:01:56.846Z","pid":6260,"hostname":"DBS-NTB-005","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-20T19:01:56.855Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:01:57.017Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-20T19:01:57.017Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:02:05.178Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-20T19:02:05.186Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T19:02:05.192Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T19:02:05.211Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method goTo"}
+{"level":30,"time":"2022-05-20T19:02:05.980Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method goTo"}
+{"level":30,"time":"2022-05-20T19:02:05.988Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:02:05.989Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.login-form in page."}
+{"level":30,"time":"2022-05-20T19:02:06.073Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:02:06.084Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:02:06.084Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2022-05-20T19:02:06.156Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:02:06.163Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:02:06.163Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2022-05-20T19:02:06.224Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:02:06.238Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T19:02:06.239Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Entrar in page."}
+{"level":30,"time":"2022-05-20T19:02:06.411Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T19:02:06.424Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:02:06.424Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text= Senha obrigatória in page."}
+{"level":30,"time":"2022-05-20T19:02:06.447Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:02:06.467Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:02:07.050Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:02:07.056Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:07.060Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:07.063Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:02:07.063Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T19:02:07.063Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:02:07.067Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:07.070Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:07.073Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:07.073Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:07.075Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:07.075Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:07.080Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:02:07.080Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T19:02:07.080Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:02:07.085Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:02:07.088Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Removed page=5add65cb-5a3d-48b6-8fd4-eac0e51a35d3 from context=adb691af-12f8-46a3-8aad-2f38980ea61c page stack"}
+{"level":30,"time":"2022-05-20T19:02:07.090Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:02:07.097Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:07.097Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:07.104Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:02:07.900Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:02:07.905Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-20T19:02:07.905Z","pid":6260,"hostname":"DBS-NTB-005","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-20T19:02:07.918Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:02:08.082Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-20T19:02:08.082Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:02:18.070Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-20T19:02:18.078Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T19:02:18.086Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T19:02:18.102Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method goTo"}
+{"level":30,"time":"2022-05-20T19:02:18.910Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method goTo"}
+{"level":30,"time":"2022-05-20T19:02:18.920Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:02:18.920Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.login-form in page."}
+{"level":30,"time":"2022-05-20T19:02:19.005Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:02:19.016Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T19:02:19.016Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Entrar in page."}
+{"level":30,"time":"2022-05-20T19:02:19.177Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T19:02:19.190Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getElements"}
+{"level":30,"time":"2022-05-20T19:02:19.191Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is disabled, return Locator: xpath=//span[@class=\"error\"] in page."}
+{"level":30,"time":"2022-05-20T19:02:19.191Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Wait element to reach attached state."}
+{"level":30,"time":"2022-05-20T19:02:19.234Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Found 2 elements."}
+{"level":30,"time":"2022-05-20T19:02:19.235Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Find 0 Locator in page."}
+{"level":30,"time":"2022-05-20T19:02:19.235Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Find 1 Locator in page."}
+{"level":30,"time":"2022-05-20T19:02:19.236Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getElements"}
+{"level":30,"time":"2022-05-20T19:02:19.247Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-20T19:02:19.249Z","pid":6260,"hostname":"DBS-NTB-005","msg":"element=4ca89ac6-342e-41a6-86a4-e81b65db9518 selector parsed without children"}
+{"level":30,"time":"2022-05-20T19:02:19.249Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Only locator handle defined, return cached Locator."}
+{"level":30,"time":"2022-05-20T19:02:19.323Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Retrieved text for element element=4ca89ac6-342e-41a6-86a4-e81b65db9518 containing E-mail obrigatório"}
+{"level":30,"time":"2022-05-20T19:02:19.324Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-20T19:02:19.333Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getText"}
+{"level":30,"time":"2022-05-20T19:02:19.333Z","pid":6260,"hostname":"DBS-NTB-005","msg":"element=79ef270d-0cc7-41b5-9d5a-3dc4302c0e82 selector parsed without children"}
+{"level":30,"time":"2022-05-20T19:02:19.334Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Only locator handle defined, return cached Locator."}
+{"level":30,"time":"2022-05-20T19:02:19.377Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Retrieved text for element element=79ef270d-0cc7-41b5-9d5a-3dc4302c0e82 containing Senha obrigatória"}
+{"level":30,"time":"2022-05-20T19:02:19.377Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getText"}
+{"level":30,"time":"2022-05-20T19:02:19.398Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:02:19.802Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:02:19.808Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:19.811Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:19.814Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:02:19.814Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T19:02:19.814Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:02:19.818Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:19.821Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:19.824Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:19.824Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:19.827Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:19.827Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:19.834Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:02:19.834Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T19:02:19.834Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:02:19.838Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:02:19.841Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Removed page=a492c730-e718-41c2-a89f-49cb719cff3c from context=e8fbedd9-97fc-4ebc-9e29-268c6beeafbe page stack"}
+{"level":30,"time":"2022-05-20T19:02:19.845Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:02:19.853Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:19.853Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:19.906Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:19.906Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:19.910Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:19.910Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:19.917Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:02:20.525Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:02:20.530Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-20T19:02:20.530Z","pid":6260,"hostname":"DBS-NTB-005","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-20T19:02:20.538Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:02:20.659Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-20T19:02:20.660Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:02:30.671Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  newPage"}
+================= Original suppressed error =================
+page.goto: Timeout 10000ms exceeded.
+=========================== logs ===========================
+navigating to "https://getgeeks-jonga.herokuapp.com/", waiting until "load"
+============================================================
+    at newPage (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7548:18)
+    at async PlaywrightServer.newPage (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-05-20T19:02:30.685Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:02:30.685Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6307:3)
+    at PlaywrightServer.takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:34)
+    at handleUnary (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-05-20T19:02:30.715Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:02:30.716Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6307:3)
+    at PlaywrightServer.takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:34)
+    at handleUnary (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-05-20T19:02:30.727Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:02:30.728Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6307:3)
+    at PlaywrightServer.takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:34)
+    at handleUnary (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-05-20T19:02:30.745Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:30.745Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:30.753Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:02:30.758Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:30.759Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:30.764Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:30.765Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:30.772Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:30.772Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:30.787Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:02:30.792Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:02:30.806Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:02:30.828Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:30.829Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:30.845Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:02:31.519Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:02:31.524Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-20T19:02:31.524Z","pid":6260,"hostname":"DBS-NTB-005","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-20T19:02:31.535Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:02:31.698Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-20T19:02:31.699Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:02:41.709Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  newPage"}
+================= Original suppressed error =================
+page.goto: Timeout 10000ms exceeded.
+=========================== logs ===========================
+navigating to "https://getgeeks-jonga.herokuapp.com/", waiting until "load"
+============================================================
+    at newPage (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7548:18)
+    at async PlaywrightServer.newPage (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-05-20T19:02:41.720Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:02:41.721Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6307:3)
+    at PlaywrightServer.takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:34)
+    at handleUnary (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-05-20T19:02:41.749Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:02:41.750Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6307:3)
+    at PlaywrightServer.takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:34)
+    at handleUnary (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-05-20T19:02:41.759Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:02:41.760Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6307:3)
+    at PlaywrightServer.takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:34)
+    at handleUnary (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-05-20T19:02:41.778Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:41.779Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:41.788Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:02:41.794Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:41.794Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:41.802Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:41.802Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:41.813Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:41.813Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:41.828Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:02:41.836Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:02:41.849Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:02:41.863Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:41.863Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:41.871Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:02:42.587Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:02:42.591Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-20T19:02:42.592Z","pid":6260,"hostname":"DBS-NTB-005","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-20T19:02:42.599Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:02:42.742Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-20T19:02:42.742Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:02:45.390Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-20T19:02:45.399Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T19:02:45.402Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method setViewportSize"}
+{"level":30,"time":"2022-05-20T19:02:45.409Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method goTo"}
+{"level":30,"time":"2022-05-20T19:02:47.099Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method goTo"}
+{"level":30,"time":"2022-05-20T19:02:47.113Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:02:47.113Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.signup-form in page."}
+{"level":30,"time":"2022-05-20T19:02:47.213Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:02:47.228Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:02:47.229Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2022-05-20T19:02:47.315Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:02:47.323Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:02:47.323Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=lastname in page."}
+{"level":30,"time":"2022-05-20T19:02:47.386Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:02:47.392Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:02:47.393Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2022-05-20T19:02:47.454Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:02:47.462Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-05-20T19:02:47.462Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2022-05-20T19:02:47.519Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method fillText"}
+{"level":30,"time":"2022-05-20T19:02:47.530Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-20T19:02:47.530Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=.submit-button >> text=Cadastrar in page."}
+{"level":30,"time":"2022-05-20T19:02:47.738Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method click"}
+{"level":30,"time":"2022-05-20T19:02:47.750Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:02:47.750Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Strict mode is enabled, find Locator with css=span[class=error] >> text= O email está estranho in page."}
+{"level":30,"time":"2022-05-20T19:02:47.777Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-05-20T19:02:47.798Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:02:48.246Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:02:48.252Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:48.258Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:48.260Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:02:48.261Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T19:02:48.261Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:02:48.264Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:48.267Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:48.270Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:48.270Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:48.272Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:48.272Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:48.277Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:02:48.277Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changing current active page"}
+{"level":30,"time":"2022-05-20T19:02:48.277Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:02:48.282Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:02:48.287Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Removed page=327338ff-4bda-46de-a101-d1bc4eb57b00 from context=f4628daf-92bf-4049-9f2d-9742818c13c2 page stack"}
+{"level":30,"time":"2022-05-20T19:02:48.290Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:02:48.298Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:48.299Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:48.308Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:02:49.118Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:02:49.123Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-20T19:02:49.123Z","pid":6260,"hostname":"DBS-NTB-005","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-20T19:02:49.131Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:02:49.285Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-20T19:02:49.285Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:02:59.289Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  newPage"}
+================= Original suppressed error =================
+page.goto: Timeout 10000ms exceeded.
+=========================== logs ===========================
+navigating to "https://getgeeks-jonga.herokuapp.com/", waiting until "load"
+============================================================
+    at newPage (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7548:18)
+    at async PlaywrightServer.newPage (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-05-20T19:02:59.302Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:02:59.303Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6307:3)
+    at PlaywrightServer.takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:34)
+    at handleUnary (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-05-20T19:02:59.344Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:02:59.344Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6307:3)
+    at PlaywrightServer.takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:34)
+    at handleUnary (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-05-20T19:02:59.363Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:02:59.364Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6307:3)
+    at PlaywrightServer.takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:34)
+    at handleUnary (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-05-20T19:02:59.392Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:59.393Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:59.401Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:02:59.407Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:59.408Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:59.413Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:59.413Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:59.420Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:59.421Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:02:59.433Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:02:59.439Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:02:59.453Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:02:59.479Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:59.479Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:02:59.494Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:03:00.277Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-05-20T19:03:00.295Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-20T19:03:00.296Z","pid":6260,"hostname":"DBS-NTB-005","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-05-20T19:03:00.312Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:03:00.491Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-20T19:03:00.491Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active page"}
+{"level":30,"time":"2022-05-20T19:03:10.492Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  newPage"}
+================= Original suppressed error =================
+page.goto: Timeout 10000ms exceeded.
+=========================== logs ===========================
+navigating to "https://getgeeks-jonga.herokuapp.com/", waiting until "load"
+============================================================
+    at newPage (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7548:18)
+    at async PlaywrightServer.newPage (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:28) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2022-05-20T19:03:10.504Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:03:10.504Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6307:3)
+    at PlaywrightServer.takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:34)
+    at handleUnary (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-05-20T19:03:10.537Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:03:10.538Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6307:3)
+    at PlaywrightServer.takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:34)
+    at handleUnary (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-05-20T19:03:10.549Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-20T19:03:10.550Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Error of node method  takeScreenshot"}
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at exists (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6272:11)
+    at takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:6307:3)
+    at PlaywrightServer.takeScreenshot (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\index.js:7773:34)
+    at handleUnary (C:\Users\joao.lima\AppData\Local\Programs\Python\Python310\lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:688:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+=============================================================
+{"level":30,"time":"2022-05-20T19:03:10.569Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:03:10.570Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:03:10.575Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:03:10.583Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:03:10.585Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:03:10.592Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:03:10.592Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:03:10.601Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:03:10.602Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-05-20T19:03:10.623Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Changed active context"}
+{"level":30,"time":"2022-05-20T19:03:10.627Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:03:10.644Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-05-20T19:03:10.675Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:03:10.675Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-05-20T19:03:11.145Z","pid":6260,"hostname":"DBS-NTB-005","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-05-20T19:03:12.039Z","pid":6260,"hostname":"DBS-NTB-005","msg":"End of node method closeAllBrowsers"}
