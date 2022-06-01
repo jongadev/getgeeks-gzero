@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="8" errors="0" failures="0" skipped="0" time="48.066">
+<testcase classname="Tests.Geeks" name="Be a geek" time="7.663">
+</testcase>
+<testcase classname="Tests.Geeks" name="Get Geek List" time="13.158">
+</testcase>
+<testcase classname="Tests.Sessions" name="User session" time="2.610">
+</testcase>
+<testcase classname="Tests.Sessions" name="Should Not Get Token" time="8.487">
+</testcase>
+<testcase classname="Tests.Users" name="Add new user" time="3.130">
+</testcase>
+<testcase classname="Tests.Users" name="Get user data" time="3.289">
+</testcase>
+<testcase classname="Tests.Users" name="Remove user" time="4.483">
+</testcase>
+<testcase classname="Tests.Users" name="Update a user" time="4.748">
+</testcase>
+</testsuite>
