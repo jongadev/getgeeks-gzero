@@ -16,13 +16,17 @@ Resource            actions/GeekActions.robot
 Resource            Database.robot
 Resource            Helpers.robot
 
+
+
+
 *Variables*
 ${BASE_URL}         https://getgeeks-jonga.herokuapp.com
+
 
 *Keywords*
 
 Start Session
-    New Browser          ${BROWSER}        headless=${HEADLESS}         slowMo=00:00:00
+    New Browser          ${BROWSER}        headless=${HEADLESS}         slowMo=00:00:00     timeout=1:01:30
     New Page             ${BASE_URL}
     Set Viewport Size    1280   768
 
