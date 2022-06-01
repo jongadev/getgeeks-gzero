@@ -35,7 +35,7 @@ Submit Geek Form
 
 Geek Form Should Be Sucess
     ${expect_message}   Set Variable    Seu cadastro está na nossa lista de geeks. Agora é só ficar de olho no seu WhatsApp.
-    Wait For Elements State     css=p >> text= ${expect_message}    visible     5
+    Wait For Elements State     css=p >> text= ${expect_message}    visible     3
 
 Reset Geek Form
 

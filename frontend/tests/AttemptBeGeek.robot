@@ -28,6 +28,7 @@ No work                  work               ${EMPTY}                Por favor, s
 *Keywords*
 Attempt Be a Geek
     [Arguments]     ${key}      ${input_field}      ${output_message}
+    
 
     ${user}              Factory User    attempt_be_geek
 
