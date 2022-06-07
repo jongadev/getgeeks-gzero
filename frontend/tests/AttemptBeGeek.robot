@@ -8,12 +8,12 @@ Test Template        Attempt Be a Geek
 
 *Variables*
 ${long_desc}        Seu pc esta lento ? reiniciando do nada ? não se preocupe dou um jeito nele.O baidu esta te incomodando não tem problema também damos um jeito nele.Formatou e esqueceu de fazer backup? Mas pode ficar tranquilo recuperamos para você, excluímos qualquer tipo de virus
- 
+
 
 *Test Cases*
-Short desc               desc          Formato o seu PC        A descrição deve ter no minimo 80 caracteres
-Long desc                desc          ${long_desc}            A descrição deve ter nomáximo 255 caracteres
-Empty desc               desc          ${EMPTY}                Informe a descrição do seu trabalho
+Short desc               desc               Formato o seu PC        A descrição deve ter no minimo 80 caracteres
+Long desc                desc               ${long_desc}            A descrição deve ter no máximo 255 caracteres      
+Empty desc               desc               ${EMPTY}                Informe a descrição do seu trabalho
 Whats only ddd           whats              11                      O Whatsapp deve ter 11 digitos contando com o DDD
 Whats only number        whats              99999999                O Whatsapp deve ter 11 digitos contando com o DDD
 Empty whats              whats              ${EMPTY}                O Whatsapp deve ter 11 digitos contando com o DDD
@@ -27,19 +27,20 @@ No work                  work               ${EMPTY}                Por favor, s
 
 *Keywords*
 Attempt Be a Geek
-    [Arguments]     ${key}      ${input_field}      ${output_message}
+    [Arguments]          ${key}         ${input_field}          ${output_message}    
     
 
     ${user}              Factory User    attempt_be_geek
 
     Set To Dictionary       ${user}[geek_profile]    ${key}      ${input_field}
 
-    Fill Geek Form          ${user}[geek_profile]
+    Fill Geek Form          ${user}[geek_profile]     
     Submit Geek Form
     Alert Span Should Be    ${output_message}
 
-    Take Screenshot         fullPage=true
-    Sleep                   2
+    Take Screenshot          fullPage=true
+    Sleep                    2
+  
 
 Start Session For Attempt Be Geek
     ${user}              Factory User        attempt_be_geek

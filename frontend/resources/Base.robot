@@ -22,16 +22,16 @@ Resource            Helpers.robot
 *Variables*
 ${BASE_URL}         https://getgeeks-jonga.herokuapp.com
 
-${timeout}         50s
+
 
 
 *Keywords*
 
 Start Session
-    New Browser          ${BROWSER}        headless=${HEADLESS}         slowMo=00:00:00     timeout=${timeout}
+    New Browser          ${BROWSER}        headless=${HEADLESS}         slowMo=00:00:00     
     New Page             ${BASE_URL}
     Set Viewport Size    1280   768
-
+   
 Finish Session 
     Take Screenshot     fullPage=true
 
