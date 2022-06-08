@@ -17,12 +17,12 @@ Empty desc               desc               ${EMPTY}                Informe a de
 Whats only ddd           whats              11                      O Whatsapp deve ter 11 digitos contando com o DDD
 Whats only number        whats              99999999                O Whatsapp deve ter 11 digitos contando com o DDD
 Empty whats              whats              ${EMPTY}                O Whatsapp deve ter 11 digitos contando com o DDD
-Cost letters             cost               aaaa                    Valor deve ser numérico
-Cost Alpha               cost               aa12                    Valor deve ser numérico
-Cost special chars       cost               @#$%                    Valor deve ser numérico
-Empty cost               cost               ${EMPTY}                Valor deve ser numérico
-No printer repair        printer_repair     ${EMPTY}                Por favor, informe se você é um Geek Supremo
-No work                  work               ${EMPTY}                Por favor, selecione o modelo de trabalho
+#Cost letters             cost               aaaa                    Valor deve ser numérico
+##Cost Alpha               cost               aa12                    Valor deve ser numérico
+#Cost special chars       cost               @#$%                    Valor deve ser numérico
+#Empty cost               cost               ${EMPTY}                Valor deve ser numérico
+#No printer repair        printer_repair     ${EMPTY}                Por favor, informe se você é um Geek Supremo
+#No work                  work               ${EMPTY}                Por favor, selecione o modelo de trabalho
 
 
 *Keywords*

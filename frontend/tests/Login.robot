@@ -29,15 +29,15 @@ Incorrect Pass
     Submit Credentials 
     Modal Content Should Be     Usuário e/ou senha inválidos.
 
-User not found
-    [Tags]          user_404
+#User not found
+  #  [Tags]          user_404
 
-    ${user}         Create Dictionary       email=jolgabriel&hotmail.com        password=abc123
+   # ${user}         Create Dictionary       email=jolgabriel&hotmail.com        password=abc123
 
-    Go To Login Page
-    Fill Credentials            ${user}
-    Submit Credentials 
-    Modal Content Should Be     Usuário e/ou senha inválidos.  
+   # Go To Login Page
+  #  Fill Credentials            ${user}
+ #   Submit Credentials 
+ #   Modal Content Should Be     Usuário e/ou senha inválidos.  
 
 Incorrect Email
     [Tags]          inv_email
