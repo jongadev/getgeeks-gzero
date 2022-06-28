@@ -4,6 +4,7 @@ Documentation       Base Test
 
 Library             Browser
 Library             Collections
+Library             String
 
 Library             factories/Users.py
 
@@ -15,6 +16,7 @@ Resource            actions/GeekActions.robot
 
 Resource            Database.robot
 Resource            Helpers.robot
+Resource            Services.robot
 
 
 
